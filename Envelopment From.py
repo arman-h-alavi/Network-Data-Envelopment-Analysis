@@ -7,7 +7,6 @@ Created on Fri Mar  1 04:13:53 2024
 
 from pulp import *
 import pandas as pd
-from sklearn.preprocessing import MinMaxScaler
 
 
 def solve_model(O, w1, w2, w3, w4):
